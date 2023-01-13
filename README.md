@@ -2,6 +2,6 @@
 <img src="https://skillicons.dev/icons?i=cpp,cs,unreal,visualstudio,vscode,github,gitlab,git)](https://skillicons.dev">
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CO0K1EX=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CO0K1EX=CO0K1EX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
